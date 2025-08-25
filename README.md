@@ -1,4 +1,4 @@
-# Clash Royale Engine Powered by Reinforcement Learning.
+# Clash Royale Engine with Reinforcement Learning.
 
 ## Table of Contents
 - [Background](#background)
